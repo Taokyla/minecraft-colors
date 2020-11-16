@@ -6,7 +6,7 @@
 @font-face {
   font-family: "minecraftfont";
   src: url(/public/fonts/1412/minecraftfont.eot);
-  src: local("minecraftfont"), url(https://fontsforweb.com/public/fonts/1412/minecraftfont.ttf) format("truetype");
+  src: local("minecraftfont"), url(minecraftfont.ttf) format("truetype");
 }
 body {
   background-color: #eee;
